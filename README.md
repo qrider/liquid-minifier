@@ -1,6 +1,3 @@
-Here’s a cleaned-up and complete `README.md` for your **Liquid Minifier** VS Code extension, based on the template you shared but tailored to your tool:
-
----
 
 # Liquid Minifier README
 
